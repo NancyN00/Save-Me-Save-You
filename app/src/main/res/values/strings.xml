@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AuthenticationApplication</string>
+    <string name="app_name">Save Me, Save You!</string>
     <string name="started_title">Hello You!</string>
     <string name="started_sub_title">Nice To Meet You, come join our community!
         <br><b>Login</b> if you already have an account.</br>
@@ -34,5 +34,7 @@
     <string name="hello_title">Hello World</string>
     <string name="home_sub_title">Welcome to home</string>
     <string name="btn_logout">LOGOUT</string>
+    <string name="save_me_save_you">Save Me, Save You!</string>
+    <string name="lets_start">Lets Start</string>
 
 </resources>
