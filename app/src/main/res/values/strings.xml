@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AuthenticationApplication</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">Nice To Meet You, come join our community!
+        <br><b>Login</b> if you already have an account.</br>
+        <br><b>Register</b>to get started with the app.</br>
+    </string>
+    <string name="illustration_img">illustration image</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login_title">Login to app</string>
+    <string name="login_sub_title">
+        <font color="#00C9B8"><b>Login</b></font>
+        if you already have an account.
+    </string>
+    <string name="login_forgot_pw">Forgot Password?</string>
+    <string name="login_name">your username or email</string>
+    <string name="login_password">User Password</string>
+    <string name="login_havent_account">
+        I don\'t have an account
+        <font color="#0009B8"><b>Register</b></font>
+    </string>
+
+
+</resources>
