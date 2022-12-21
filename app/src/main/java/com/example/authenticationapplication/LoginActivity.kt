@@ -24,7 +24,7 @@ class LoginActivity : AppCompatActivity() {
 
 
         logologo.setOnClickListener {
-            startActivity((Intent(this, HomeActivity::class.java)))
+            startActivity((Intent(this, ExploreActivity::class.java)))
         }
 
         nocount.setOnClickListener {

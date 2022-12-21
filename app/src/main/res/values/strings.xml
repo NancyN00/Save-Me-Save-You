@@ -36,5 +36,13 @@
     <string name="btn_logout">LOGOUT</string>
     <string name="save_me_save_you">Save Me, Save You!</string>
     <string name="lets_start">Lets Start</string>
+    <string name="your_focus">What is Your Focus?</string>
+    <string name="be_happy">You deserve to be happy because you are marvelous.</string>
+    <string name="save_me">Save Me</string>
+    <string name="save_you">Save You</string>
+    <string name="i_am_here">I am here, be happy!</string>
+    <string name="savv_me">Save Me</string>
+    <string name="savv_you">Save You</string>
+    <string name="happy_world">Let us find solace in one another. We all deserve to be happy and to be loved.</string>
 
 </resources>
