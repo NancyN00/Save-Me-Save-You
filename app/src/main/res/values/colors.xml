@@ -10,4 +10,5 @@
     <color name="primary_color">#00C9B8</color>
     <color name="grey">#888888</color>
     <color name="grey_light"></color>
+    <color name="story">#1DC524</color>
 </resources>
