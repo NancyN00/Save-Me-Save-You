@@ -29,7 +29,7 @@ class ExploreActivity : AppCompatActivity() {
         }
 
         regino.setOnClickListener {
-            var i = Intent(this, RegisterActivity::class.java)
+            var i = Intent(this, DoctorUpload::class.java)
             startActivity(i)
         }
     }
