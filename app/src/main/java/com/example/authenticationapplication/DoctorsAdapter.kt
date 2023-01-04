@@ -33,7 +33,7 @@ class DoctorsAdapter (private var dList: List<ViewDocs>) : RecyclerView.Adapter<
     }
 
     override fun onBindViewHolder(holder: DoctorsViewHolder, position: Int) {
-        var docdata = dList[position]
+             var docdata = dList[position]
              holder.logo.setImageResource(docdata.logo)
               holder.docTv.text = docdata.title
               holder.docDescTv.text = docdata.desc
