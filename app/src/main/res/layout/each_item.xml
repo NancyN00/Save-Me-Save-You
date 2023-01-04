@@ -7,6 +7,7 @@
     app:cardCornerRadius="8dp"
     app:cardUseCompatPadding="true"
     android:layout_marginHorizontal="8dp"
+    android:background="@color/story"
     app:cardElevation="12dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -34,7 +35,7 @@
                 app:layout_constraintTop_toTopOf="parent">
 
                 <ImageView
-                    android:id="@+id/logoIv"
+                    android:id="@+id/docIv"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:scaleType="fitXY"
@@ -56,11 +57,11 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <TextView
-            android:id="@+id/langDesc"
+            android:id="@+id/docDesc"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:padding="8dp"
-            android:text="     It was not about fixing or treating mental health issues, it certainly was not about making a name for myself, and definitely not about making a fortune. Psychology is not just taking one major and then cutting teeth on a profession. I spent more than 20 years in the academic studies in four different universities and four different countries. It wasn’t just Psychology, it was Philosophy, It was Social Anthropology, it was Biology, it was Neurological Sciences, it was studying cultures, societies, traditions, belief systems, and the patterns of behavior that rippled out from each and every aspect."
+            android:text="It was not about fixing or treating mental health issues, it certainly was not about making a name for myself, and definitely not about making a fortune. Psychology is not just taking one major and then cutting teeth on a profession. I spent more than 20 years in the academic studies in four different universities and four different countries. It wasn’t just Psychology, it was Philosophy, It was Social Anthropology, it was Biology, it was Neurological Sciences, it was studying cultures, societies, traditions, belief systems, and the patterns of behavior that rippled out from each and every aspect."
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
